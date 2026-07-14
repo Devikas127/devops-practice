@@ -1,6 +1,1 @@
 Kubernetes/Installation/cluster_setup_using_kubeadm.sh
-
-#!/bin/bash
-
-echo "Hello Kubernetes!"
-echo "This is a test script."
